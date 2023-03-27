@@ -1,3 +1,3 @@
 # P-C-using-Python
 
-Gives three possible numbers whose sum is equal to the input entered by the user.
+A program that takes an input from the user and finds three possible numbers whose sum is equal to the input.
